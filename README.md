@@ -59,11 +59,11 @@ user management, password resets, and organisational unit configuration.
 ### 8. Server Manager — AD DS & DNS Roles Active
 ![Server Manager](08-server-manager-ad-ds.png)
 
-### 9. Users Created — Caleb Wallis, Sarah Johnson, Mike Peters
-![Users Created](09-users-created.png)
+### 9. Password Reset — Caleb Wallis
+![Password Reset](09-users-created.png)
 
-### 10. Password Reset — Caleb Wallis
-![Password Reset](10-password-reset.png)
+### 10. Users Created — Caleb Wallis, Sarah Johnson, Mike Peters
+![Users Created](10-password-reset.png)
 
 ### 11. Account Re-enabled — Sarah Johnson
 ![Account Enabled](11-account-enabled.png)
